@@ -63,7 +63,7 @@ export const DATA = {
       start: "March 2023",
       end: "September 2025",
       description:
-        " \u2022 Developed and maintained scalable, SEO-optimized landing pages for enterprise clients using React.js, Next.js, and Redux, improving site engagement and load times. \u2022 Built and reused modular, responsive UI components integrated with Redux for predictable and maintainable state management across applications. \u2022 Deployed apps using Vercel and managed codebase via Git and GitHub/GitLab, following CI/CD practices for seamless releases.",
+        "\u2022 Developed and maintained scalable, SEO-optimized landing pages for enterprise clients using React.js, Next.js, and Redux, improving site engagement and load times. \u2022 Built and reused modular, responsive UI components integrated with Redux for predictable and maintainable state management across applications. \u2022 Deployed apps using Vercel and managed codebase via Git and GitHub/GitLab, following CI/CD practices for seamless releases.",
     },
   ],
   education: [
