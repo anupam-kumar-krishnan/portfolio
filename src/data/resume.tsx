@@ -9,7 +9,7 @@ export const DATA = {
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description: "Software Engineer passionate for Frontend.",
   summary:
-    "Frontend Software Engineer with 2+ years of experience crafting responsive, high-performance web apps using React.js and Next.js. I love building and shiping products. Check out the Project section.",
+    "Frontend Software Engineer with 2.5 years of experience crafting responsive, high-performance web apps using React.js and Next.js. I love building and shiping products. Check out the Project section.",
   avatarUrl: "/profile.jpg",
   skills: [
     "HTML5",
@@ -61,7 +61,7 @@ export const DATA = {
       title: "Software Engineer",
       logoUrl: "/ibm.png",
       start: "March 2023",
-      end: "September 2025",
+      end: "August 2025",
       description:
         "\u2022 Developed and maintained scalable, SEO-optimized landing pages for enterprise clients using React.js, Next.js, and Redux, improving site engagement and load times. \u2022 Built and reused modular, responsive UI components integrated with Redux for predictable and maintainable state management across applications. \u2022 Deployed apps using Vercel and managed codebase via Git and GitHub/GitLab, following CI/CD practices for seamless releases.",
     },
@@ -104,9 +104,9 @@ export const DATA = {
       //"https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
     },
     {
-      title: "Snapiffy",
+      title: "Brainstorm",
       href: "https://code-snippet-brown.vercel.app/",
-      dates: "Jan 2024 - Feb 2024",
+      dates: "Feb 2024 - Mar 2024",
       active: true,
       description:
         "A Tool to create customizable, shareable code snippets with auto language detection, theming, font options, dark mode, and export as image or SVG.",
@@ -123,55 +123,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/snippet.png",
-      video: "",
-      //"https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
-    },
-    {
-      title: "Snapiffy",
-      href: "https://code-snippet-brown.vercel.app/",
-      dates: "Jan 2024 - Feb 2024",
-      active: true,
-      description:
-        "A Tool to create customizable, shareable code snippets with auto language detection, theming, font options, dark mode, and export as image or SVG.",
-      technologies: ["React.js", "TailwindCSS", "Zustand", "Shadcn UI"],
-      links: [
-        {
-          type: "Website",
-          href: "https://code-snippet-brown.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/anupam-kumar-krishnan/Code-Snippet",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/snippet.png",
-      video: "",
-      //"https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
-    },
-    {
-      title: "Snapiffy",
-      href: "https://code-snippet-brown.vercel.app/",
-      dates: "Jan 2024 - Feb 2024",
-      active: true,
-      description:
-        "A Tool to create customizable, shareable code snippets with auto language detection, theming, font options, dark mode, and export as image or SVG.",
-      technologies: ["React.js", "TailwindCSS", "Zustand", "Shadcn UI"],
-      links: [
-        {
-          type: "Website",
-          href: "https://code-snippet-brown.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/anupam-kumar-krishnan/Code-Snippet",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/snippet.png",
+      image: "/brainstorm.png",
       video: "",
       //"https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
     },
